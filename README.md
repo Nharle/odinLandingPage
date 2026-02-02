@@ -1,0 +1,1 @@
+Landing Page project for the Odin Project. I guess lets see how this turns out idk how to write READMEs. 
