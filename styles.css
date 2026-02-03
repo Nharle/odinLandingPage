@@ -24,10 +24,17 @@ ul {
 
 .headLinks {
     display:flex;
+    justify-content:space-around;
 
 }
-.logo {
-
+#logo{
+    font-size:24px;
+    
+}
+.hText {
+    color:#F9FAF8;
+    font-weight:900;
+    font-size:48px;
 }
 .rightLinks {
     display:flex;
