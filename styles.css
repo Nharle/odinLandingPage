@@ -56,6 +56,7 @@ ul {
 .headImage {
     width:400px;
     height:200px;
+    background-color:gray;
 }
 .heroText {
     max-width:400px;
