@@ -72,3 +72,24 @@ ul {
     border:none;
     
 }
+.contentHeader {
+    font-size:36px;
+    color:#1F2937;
+    font-weight:900;
+    text-align:center;
+    margin-top:36px;
+}
+.items {
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    margin-top:36px;
+    gap:40px;
+}
+.container {
+    width: 144px;
+    height: 144px;
+    border:solid;
+    border-radius:8px;
+    border-color:#3882F6;
+}
