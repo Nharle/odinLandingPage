@@ -20,22 +20,54 @@ ul {
 
 .header {
     background:#1F2937;
+    padding:10px 0;
+
 }
 
 .headLinks {
     display:flex;
-    justify-content:space-around;
+    justify-content:space-between;
+    margin: 0 250px 70px;
 
 }
 #logo{
     font-size:24px;
     
 }
+.rightLinks {
+    display:flex;
+    gap:16px;
+}
 .hText {
     color:#F9FAF8;
     font-weight:900;
     font-size:48px;
 }
-.rightLinks {
+.subHText {
+    font-size:18px;
+    color:#E5E7EB;
+}
+.headContent {
     display:flex;
+    justify-content:space-between;
+    margin:0 250px 70px;
+
+}
+.headImage {
+    width:400px;
+    height:200px;
+}
+.heroText {
+    max-width:400px;
+}
+.headButton {
+    background-color:#3882F6;
+    font-size:18px;
+    color:#F9FAF8;
+    font-weight:900;
+    padding:8px 30px;
+    margin-top:8px;
+    border-radius:8px;
+    border:none;
+    
 }
