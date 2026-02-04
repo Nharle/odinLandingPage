@@ -72,6 +72,9 @@ ul {
     border:none;
     
 }
+button:hover {
+    cursor:pointer;
+}
 .contentHeader {
     font-size:36px;
     color:#1F2937;
