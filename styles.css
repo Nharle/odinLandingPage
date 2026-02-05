@@ -96,3 +96,7 @@ button:hover {
     border-radius:8px;
     border-color:#3882F6;
 }
+.subtext {
+    color:#4f4f4f;
+    font-size:18px;
+}
