@@ -131,6 +131,15 @@ button:hover {
     padding:50px 112px;
     font-size:18px;
 }
-#callText {
+.callText {
     font-weight:900;
+    color:#F9FAF8;
+}
+#callButton {
+    background:none;
+    border:solid;
+    border-width:2px;
+    border-color: #f9faf8;
+    border-radius:8px;
+    padding:10px 40px;
 }
