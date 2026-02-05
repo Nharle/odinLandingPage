@@ -120,3 +120,17 @@ button:hover {
     font-weight:700;
     justify-content:flex-end;
 }
+.signUpSection {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    color:#F9FAF8;
+    background-color: #3882F6;
+    border-radius:8px;
+    margin: 100px 300px;
+    padding:50px 112px;
+    font-size:18px;
+}
+#callText {
+    font-weight:900;
+}
